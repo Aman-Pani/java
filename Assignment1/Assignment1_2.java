@@ -1,5 +1,5 @@
 import java.lang.*;
-public class test{
+public class Assignment1_2{
 	public static void main(String[] args){
 		int a = 5,b = 2;
 		System.out.println("num1=5  &  num2=2");
