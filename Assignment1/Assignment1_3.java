@@ -6,3 +6,14 @@ public class Assignment1_3{
 			System.out.println("Aman");
 	}
 }
+
+// Aman
+// Aman
+// Aman
+// Aman
+// Aman
+// Aman
+// Aman
+// Aman
+// Aman
+// Aman
