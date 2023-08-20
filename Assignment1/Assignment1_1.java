@@ -5,3 +5,6 @@ public class Assignment1_1{
 		System.out.println("This is my first java program");
 	}
 }
+
+
+// This is my first java program
